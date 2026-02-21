@@ -1,7 +1,5 @@
-# Ignore frontend for now as per user request
-frontend/
 
-# Standard ignores
+frontend/
 node_modules/
 .env
 *.log
