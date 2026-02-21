@@ -1,0 +1,3 @@
+# Local src level ignore rules
+.env
+debug.log
